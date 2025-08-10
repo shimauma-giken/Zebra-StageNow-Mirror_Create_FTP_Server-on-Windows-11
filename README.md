@@ -1,0 +1,2 @@
+# Zebra-StageNow-Mirror_Create_FTP_Server on Windows 11
+Zebra-StageNow-Mirror向けにWindows11上でFTPサーバを構築するためのガイド
